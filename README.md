@@ -8,7 +8,7 @@ The goal of this project is to create a clean, realistic, and data-driven dashbo
 
 ## Dashboard Preview
 
-![DC Crime and Traffic Incident Analysis Dashboard](dc_crime_and_traffic_analysis_dashboard.png)
+![DC Crime and Traffic Analysis Dashboard](DC%20Crime%20and%20Traffic%20Analysis%20Dashboard.png)
 
 ## Project Objective
 
